@@ -24,7 +24,7 @@ Simon Says - Master's Final Project
 
 In 2019/06, I took the above demo video. The project's repo is [here](https://github.com/felixchenfy/Command_Robot_to_Move). However, the code is in a mess and is hardware dependent, which I do not recommend reading. 
 
-In 2019/10~2019/12, I divided this big project into 4 separate ROS package and refactored the code. Each package uses ROS topics/services as interface, and is self-contained. See below. (But I haven't combined them to create another video demo.)
+In 2019/10~2019/12, I divided this big project into 4 separate ROS packages and refactored the code. Each package uses ROS topics/services as interface, and is self-contained. See below. (But I haven't combined them to create another video demo.)
 
 # Four ROS Packages
 

@@ -65,6 +65,7 @@ In 2019/10~2019/12, I divided this big project into 4 separate ROS packages and 
 I have developed several other small packages that might be helpful when dealing with **image** data:
 * [ros_images_publisher](https://github.com/felixchenfy/ros_images_publisher): A python script to publish color or depth images from a folder to ROS topic.
 * [ros_pub_and_sub_rgbd_and_cloud](https://github.com/felixchenfy/ros_pub_and_sub_rgbd_and_cloud): Python nodes to publish/subscribe RGB-D images and their point clouds (or any of them) to/from ROS topics.
+* [ros_record_rgbd_images](https://github.com/felixchenfy/ros_record_rgbd_images): Press key to record color/depth images from ROS topics or Realsense.
 * [record_images_from_usbcam](https://github.com/felixchenfy/record_images_from_usbcam): Run one script and press 's'/'d' to save your laptop's camera images to disk.
 * [open3d_ros_pointcloud_conversion](https://github.com/felixchenfy/open3d_ros_pointcloud_conversion) 2 Python API functions for point cloud conversion between Open3D and ROS.
 
